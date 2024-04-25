@@ -1,0 +1,4 @@
+../Core/Src/360_servo.c:4:7:map	1
+../Core/Src/360_servo.c:9:9:create_servo	2
+../Core/Src/360_servo.c:21:9:set_pwm_signal_servo	4
+../Core/Src/360_servo.c:42:9:check_update_speed	5

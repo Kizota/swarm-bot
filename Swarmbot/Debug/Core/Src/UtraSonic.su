@@ -1,0 +1,5 @@
+../Core/Src/UtraSonic.c:15:9:create_ultrasonic_datas	24	static
+../Core/Src/UtraSonic.c:35:9:check_detect_echo_rise	24	static
+../Core/Src/UtraSonic.c:41:9:check_detecting_status	24	static
+../Core/Src/UtraSonic.c:46:9:calculate_distance	24	static
+../Core/Src/UtraSonic.c:56:9:check_ultra_sonic_info	24	static

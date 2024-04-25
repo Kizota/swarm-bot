@@ -1,0 +1,4 @@
+../Core/Src/360_servo.c:4:7:map	32	static
+../Core/Src/360_servo.c:9:9:create_servo	16	static
+../Core/Src/360_servo.c:21:9:set_pwm_signal_servo	24	static
+../Core/Src/360_servo.c:42:9:check_update_speed	24	static

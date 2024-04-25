@@ -1,0 +1,10 @@
+../Core/Src/main.c:82:5:main	2
+../Core/Src/main.c:149:6:SysTick_Handler	1
+../Core/Src/main.c:154:6:TIM2_IRQHandler	4
+../Core/Src/main.c:168:6:TIM3_IRQHandler	3
+../Core/Src/main.c:177:6:TIM4_IRQHandler	3
+../Core/Src/main.c:189:6:TIM1_BRK_TIM15_IRQHandler	4
+../Core/Src/main.c:209:6:SystemClock_Config	4
+../Core/Src/main.c:252:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:285:13:MX_GPIO_Init	1
+../Core/Src/main.c:323:6:Error_Handler	1
